@@ -8,6 +8,8 @@ format:
 editor: visual
 ---
 
+# example change
+
 # Background
 
 For this study, the NHANES dataset was used to analyze the association between diabetes and high-density lipoprotein (HDL) cholesterol levels. High levels of HDL decrease the risk of cardiovascular disease by transporting excess cholesterol from peripheral tissues to the liver for excretion. However, research has shown that diabetes tends to decrease HDL levels, which is a risk factor for cardiovascular disease [(Femlak et al., 2017)](https://doi.org/10.1186/s12944-017-0594-3). Informing individuals with a diabetic background about this association can help patients be more aware of their body and risk factors throughout their lives.
